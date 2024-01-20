@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b806a7fc9b23f4988a4480829e73a7, type: 3}
+  m_Name: enemyArchetype_skeleton_DPS
+  m_EditorClassIdentifier: 
+  m_damagePercentage: 0.5
+  m_resistancePercentage: 0
+  m_healPercentage: 0
+  m_healthPercentage: 0.5
+  m_bodyPrefabsSetSO: {fileID: 11400000, guid: 2ae8f8904ad89b849823797961d6f440, type: 2}
+  m_headPrefabsSetSO: {fileID: 11400000, guid: f87b6a2be9258c8498b1502e74d7b503, type: 2}
+  m_armsPrefabsSetSO: {fileID: 11400000, guid: a43166e5b9810ea45ac2de43fabe0ceb, type: 2}
+  m_weaponOptions:
+  - {fileID: 11400000, guid: 7eb53f1b4f3d46a4596a82a95e6e0626, type: 2}

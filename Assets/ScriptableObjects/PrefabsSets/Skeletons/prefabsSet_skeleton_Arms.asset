@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587f14081f1d8e2429c26f4c7ba65f2a, type: 3}
+  m_Name: prefabsSet_skeleton_Arms
+  m_EditorClassIdentifier: 
+  m_prefabOptions:
+  - {fileID: 5145155358507049151, guid: 22150aad35f0fc9448b058f94d93a021, type: 3}
+  - {fileID: 5728168682390302005, guid: 06c6c8dac405f50499c8d6eebae0a1de, type: 3}
+  - {fileID: 2853162793080275614, guid: fe2d747408a3ce14c8d76adb189a52a4, type: 3}
+  - {fileID: 2152663642530885552, guid: 93bd57004abd31d45a4104f92caeab70, type: 3}
+  - {fileID: 6098330713242427658, guid: 69de0f3a8d1b94a47a04efb387a60308, type: 3}
+  - {fileID: 7534423216633071420, guid: ce86c4389b000924f8bb54d1487d664e, type: 3}
+  - {fileID: 8621469107353648278, guid: ffd05785264160948be9ff58ccf45c41, type: 3}
+  - {fileID: 9194200067693653991, guid: a4bf5ca982baa9c419569c4c03679c71, type: 3}
+  - {fileID: 2696159979451357556, guid: 4a7af06343e31c645bc96aa7460972dd, type: 3}
+  - {fileID: 5494590338874785184, guid: 8094a58630c30a948a3b4d1280ea5128, type: 3}

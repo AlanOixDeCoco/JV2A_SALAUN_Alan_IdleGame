@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587f14081f1d8e2429c26f4c7ba65f2a, type: 3}
+  m_Name: prefabsSet_skeleton_Bodies
+  m_EditorClassIdentifier: 
+  m_prefabOptions:
+  - {fileID: 8949272584614695676, guid: d0aa01c2280f6c04ab57254d9429b939, type: 3}
+  - {fileID: 725400220012631452, guid: fb6e57b1c4d3ba84fb6bd82eafbb31c4, type: 3}
+  - {fileID: 4977974268959059635, guid: 3005ea41c14d9e64eaea3275f30c76ba, type: 3}
+  - {fileID: 224218667209981749, guid: 4964fcbfcc7025b49921145b14d9a5e2, type: 3}
+  - {fileID: 2735785051536330644, guid: 6fb1d773fc2a1474a8593b4514644074, type: 3}
+  - {fileID: 873633628383399975, guid: 72ce5d908c9acbd4f91540fdadda6c04, type: 3}
+  - {fileID: 2365906329332062861, guid: 386bd9365eb2ad145b161fa28878f17c, type: 3}
+  - {fileID: 2572953634203604985, guid: fd881d437c50cb64581340a482993769, type: 3}

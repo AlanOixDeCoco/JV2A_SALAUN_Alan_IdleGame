@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f8a468cdcf74a04998905412e20540a, type: 3}
+  m_Name: weapon_Staff
+  m_EditorClassIdentifier: 
+  m_weaponName: Weapon
+  m_weaponPrefab: {fileID: 54243618631499424, guid: 034a574862774314b8d2249ea2db4cd1,
+    type: 3}
+  m_weaponSprite: {fileID: 21300000, guid: d8500c9aaee58614892754e679535181, type: 3}
+  m_weaponDamage: 10
+  m_weaponDropProbability: 0.1
